@@ -422,7 +422,7 @@ def helpbot():
     key = Setmain["keyCommand"]
     key = key.title()
     helpMessage1 = "╔════════════╗" + "\n" + \
-                  "     ™❍✯͜͡ˢᵉᵖʳⁱChe✯͜͡❂➣  " + "\n" + \
+                  "     ™❍✯͜͡MuˢiBat✯͜͡❂➣  " + "\n" + \
                   "╚════════════╝" + "\n" + \
                   "╔════════════╗" + "\n" + \
                   "     ✪·BOT·✪" + "\n" + \
