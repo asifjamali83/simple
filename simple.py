@@ -25,10 +25,10 @@ oepoll = OEPoll(sepri)
 call = (sepri)
 mid = sepri.getProfile().mid
 Bots = [mid]
-creator = ["ubcd98265d4210c2215f3ddb43d79c414"]
-owner = ["ubcd98265d4210c2215f3ddb43d79c414"]
-admin = ["ubcd98265d4210c2215f3ddb43d79c414"]
-staff = ["ubcd98265d4210c2215f3ddb43d79c414"]
+creator = ["ua45a39439ea66b2b251ece1d37fbe251"]
+owner = ["ua45a39439ea66b2b251ece1d37fbe251"]
+admin = ["ua45a39439ea66b2b251ece1d37fbe251"]
+staff = ["ua45a39439ea66b2b251ece1d37fbe251"]
 #===============================#
 myProfile = {
 	"displayName": "",
